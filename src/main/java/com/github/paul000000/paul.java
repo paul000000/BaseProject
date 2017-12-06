@@ -1,6 +1,5 @@
 package com.github.paul000000;
 
-package club.kid7;
 
     import java.util.Arrays;
 
