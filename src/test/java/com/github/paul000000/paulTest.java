@@ -11,6 +11,6 @@ public class paulTest {
         paul triangle = new paul(5, 10, 5);
         String result = triangle.getType();
         Assert.assertEquals("不是三角形", result);
-    }
+   }
 
 }
